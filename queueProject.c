@@ -12,5 +12,5 @@
 
 int main()
 {
-    printf("Hello from Joyli\n");
+    printf("Hello from Joylivaranya\n");
 }
